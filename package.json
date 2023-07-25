@@ -1,10 +1,10 @@
 {
-    "name": "@vuetter/vite-plugin-vue-svg",
+    "name": "@tamc/vite-plugin-vue-svg",
     "version": "0.1.2",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/vuetter/vite-plugin-vue-svg.git"
+        "url": "https://github.com/tamc/vite-plugin-vue-svg.git"
     },
     "keywords": [
         "vite",
